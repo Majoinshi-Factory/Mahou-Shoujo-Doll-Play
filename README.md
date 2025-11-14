@@ -1,4 +1,4 @@
-# <center>Mahou-Shoujo-Doll-Play</centerr> <br> <center>魔法少女的人偶戏</center>
+<h1 align="center">Mahou-Shoujo-Doll-Play <br> 魔法少女的人偶戏</h1>
 
 <p align="center">
 你是第
@@ -8,4 +8,4 @@
 
 ---
 
-<center>这是在 Majoinshi,Saiseisan 体系下的，<br> 由人偶师操控魔女们演绎的有关 ■■ 与 ■■ 的人偶戏。</center>
+<p align="center">这是在 Majoinshi,Saiseisan 体系下的，<br> 由人偶师操控魔女们演绎的有关 ■■ 与 ■■ 的人偶戏。</p>
