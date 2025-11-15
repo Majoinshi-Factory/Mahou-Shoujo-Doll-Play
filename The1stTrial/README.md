@@ -1,6 +1,8 @@
 ## 1st Trial : 雨宫 霜奈凶杀案
 
 > Play Author : 霂霜 @Mushayuki
+> Play Time : 2025.11.13 20:30 - 2025-11-14 03:39
+> Play Duration : 5 Hour,9 Minutes.
 
 **结端 未来** 因为 对对方行为的误解 触发了自己的禁忌，
 
